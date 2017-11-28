@@ -7,11 +7,11 @@ Welcome to Diabolo's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
    :caption: Contents:
 
    introduction
-
+   framework/start
 
 Indices and tables
 ==================
