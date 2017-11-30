@@ -13,6 +13,8 @@ Welcome to Diabolo's documentation!
    introduction
    framework/start
    framework/configuration
+   framework/module
+
 Indices and tables
 ==================
 
