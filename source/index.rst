@@ -12,7 +12,7 @@ Welcome to Diabolo's documentation!
 
    introduction
    framework/start
-
+   framework/configuration
 Indices and tables
 ==================
 
