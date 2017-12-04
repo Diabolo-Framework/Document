@@ -15,6 +15,7 @@ Welcome to Diabolo's documentation!
    framework/configuration
    framework/module
    framework/service
+   framework/event
 
 Indices and tables
 ==================
