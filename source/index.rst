@@ -16,7 +16,9 @@ Welcome to Diabolo's documentation!
    framework/module
    framework/service
    framework/event
-
+   
+   service/xaction
+   
 Indices and tables
 ==================
 
