@@ -18,7 +18,8 @@ Welcome to Diabolo's documentation!
    framework/event
    
    service/xaction
-   
+   service/xdatabase
+ 
 Indices and tables
 ==================
 
