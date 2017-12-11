@@ -20,6 +20,7 @@ Welcome to Diabolo's documentation!
    service/xaction
    service/xdatabase
    service/xmail
+   service/oauth2
  
 Indices and tables
 ==================
