@@ -21,7 +21,8 @@ Welcome to Diabolo's documentation!
    service/xdatabase
    service/xmail
    service/oauth2
- 
+   service/xerror
+
 Indices and tables
 ==================
 
