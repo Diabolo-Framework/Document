@@ -22,6 +22,7 @@ Welcome to Diabolo's documentation!
    service/xmail
    service/oauth2
    service/xerror
+   service/xsession
 
 Indices and tables
 ==================
