@@ -23,6 +23,7 @@ Welcome to Diabolo's documentation!
    service/oauth2
    service/xerror
    service/xsession
+   service/xlog
 
 Indices and tables
 ==================
