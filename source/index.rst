@@ -24,6 +24,7 @@ Welcome to Diabolo's documentation!
    service/xerror
    service/xsession
    service/xlog
+   service/xrouter
 
 Indices and tables
 ==================
